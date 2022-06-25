@@ -1,0 +1,34 @@
+﻿Kitap(Kısıt 5 Tablo)
+*Satıs
+*Sepet
+*Uyelik
+*Kampanya
+*Kargo takip
+*En cok satılanlar, kampanyalı urunler, fiyata gore sırala, tavsiye edilenler...!!!
+*Kategoriler
+*Odeme
+*Stok =>Stok islemleri
+*Admin Paneli
+--------------------
+Kitap(KitapID, Ad, YazarID, Fiyat,YayinEviID,KapakResmi,Ozet,BasimTarihi,SayfaSayisi,StokAdedi,TavsiyeSayisi )
+Yazar(YazarID, YazarAdi, Biyografi)
+Kategori(KategoriID, KategoriAdi)
+YayinEvi(YEviID, YAyinEviAdi,Adres, Telefon)
+KitapKategori(KKID, KitapID,KategoriID)
+
+
+Uye(Adres??,)
+Rol() =>Admin(AdminPaneli),Uye(Sepet islemleri)
+
+Sepet(SepetID,KitapID,UyeID,Adet..)
+
+Satis(SatisID,UyeID, Tarih, ToplamTutar)
+SatisDetay(DetayID,SatisID,KitapID,Adet,Fiyat )
+
+Problems
+*Uye girisi...
+*Admin yapma...(1-1)
+*Register...
+
+---
+tavsiye sayisi?

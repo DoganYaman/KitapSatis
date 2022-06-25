@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Admin Sayfasi</h1>
+
+<table>
+    <tr>
+        <td>
+            <ul>
+                <li><a asp-controller="Yazar" asp-action="Index" asp-area="Admin">Yazarlar</a></li>
+                <li><a asp-controller="YayinEvi" asp-action="Index" asp-area="Admin">Yayın Evleri</a></li>
+                <li><a asp-controller="Kategori" asp-action="Index" asp-area="Admin" class="">Kategoriler</a></li>
+                <li><a asp-controller="Kitap" asp-action="Index" asp-area="Admin" class="">Kitaplar</a></li>
+                <li><a asp-controller="KitapKategori" asp-action="Index" asp-area="Admin" class="">Kitap Kategorileri</a></li>
+            </ul>
+
+        </td>
+        <td></td>
+    </tr>
+</table>

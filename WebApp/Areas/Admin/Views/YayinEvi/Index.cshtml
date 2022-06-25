@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebApp.Models.YayinEvi>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.YayinEviAdi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adres)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefon)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.YayinEviAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adres)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefon)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.YayinEviID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.YayinEviID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.YayinEviID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

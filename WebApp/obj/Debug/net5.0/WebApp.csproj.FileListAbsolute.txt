@@ -1,0 +1,913 @@
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.json
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.exe
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.deps.json
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.pdb
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.pdb
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+C:\Egitim\21_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Kitap\Index.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.json
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.exe
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.deps.json
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.pdb
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Kitap\Index.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.pdb
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+C:\Egitim\22_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.json
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.exe
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.deps.json
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.pdb
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Kitap\Index.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.pdb
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Panel\Index.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\_ViewStart.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\Views\Panel\Index.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\_ViewImports.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\_ViewStart.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Create.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Delete.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Details.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Edit.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Index.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Create.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Delete.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Details.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Edit.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Index.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Create.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Delete.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Details.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Edit.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Index.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Create.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Delete.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Details.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Edit.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Index.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Create.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Delete.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Details.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Edit.cshtml.g.cs
+C:\Egitim\28_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.json
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.exe
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.deps.json
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.pdb
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Create.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Delete.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Details.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Edit.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Create.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Delete.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Details.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Edit.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Create.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Delete.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Details.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Edit.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Panel\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Create.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Delete.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Details.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Edit.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Create.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Delete.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Details.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Edit.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\_ViewStart.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\Views\Panel\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\_ViewImports.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\_ViewStart.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Kitap\Index.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.pdb
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+C:\Egitim\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Kitap\Detay.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.exe
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.deps.json
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.pdb
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Create.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Delete.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Details.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Edit.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kategori\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Create.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Delete.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Details.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Edit.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\KitapKategori\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Create.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Delete.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Details.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Edit.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Kitap\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Panel\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Create.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Delete.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Details.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Edit.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\YayinEvi\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Create.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Delete.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Details.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Edit.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\Yazar\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\_ViewImports.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Admin\_ViewStart.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\Views\Panel\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\_ViewImports.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Areas\Uyeler\_ViewStart.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Kitap\Detay.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Kitap\Index.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.pdb
+C:\Users\403DOGAN_AKSAM\source\__1\Egitim\yılmaz hoca proje\29_05_2022\WebApp\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
