@@ -1,0 +1,66 @@
+﻿@model IEnumerable<WebApp.Models.Kitap>
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .galeri {
+       display:grid;
+       grid-template-columns: 220px 220px 220px 220px;
+       grid-column-gap:10px;
+       grid-row-gap:30px;
+    }
+
+        .galeri div {
+          width:200px;
+          height:300px;
+          background-color:lightgray;
+          border:1px solid #333333;
+          
+        }
+        .galeri div:hover {
+           
+            background-color:snow;
+            border: 1px solid black;
+        }
+            .galeri div img {
+               margin-left:auto;
+               margin-right:auto;
+              
+            }
+
+            .sepet {
+              color:navy;
+              font-family:Verdana;
+              font-size:20px;
+              margin-left:auto;
+              margin-right:auto;
+            }
+</style>
+
+<h1>Index</h1>
+
+<div class="galeri text-center">
+    @foreach (Kitap kitap in Model)
+    {
+    
+    <div>
+        <a asp-controller="Kitap" asp-action="Detay" asp-route-id="@kitap.KitapID">
+            <br />
+            <img src="~/KapakResimleri/@kitap.KapakResmi" width="100" height="160" />
+            <br />
+            @kitap.KitapAdi<br />
+            @kitap.Yazar.YazarAdi<br />
+            @kitap.Fiyat<br />
+            @*@kitap.TavsiyeSayisi<br />*@
+        </a>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a class="sepet" asp-area="Uyeler" asp-controller="Panel" asp-action="SepeteEkle" asp-route-id="@kitap.KitapID">Sepete Ekle</a>
+            }
+
+    </div>
+   
+    }
+</div>
+
